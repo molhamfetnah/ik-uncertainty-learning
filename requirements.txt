@@ -1,0 +1,25 @@
+# Requirements for Hybrid IK Ensemble with Uncertainty Quantification
+
+# Core
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Machine Learning
+torch>=2.0.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Type hints
+typing-extensions>=4.5.0
+
+# Benchmarking
+tabulate>=0.9.0
+
+# Documentation
+jupyter>=1.0.0
+nbformat>=5.9.0
