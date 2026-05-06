@@ -3,8 +3,9 @@
 ## Step 3: Upload to IEEE ScholarOne
 
 ### Access
-- URL: https://mc.manuscriptcentral.com/ra-l
-- Login with IEEE account (create if needed)
+- **CORRECT URL**: https://ras.papercept.net/journals/ral
+- Login with your RAS PIN number and password
+- If no PIN, register at: https://ras.papercept.net/journals/ral/scripts/login.pl
 
 ### Manuscript Submission
 
@@ -117,8 +118,8 @@ License: MIT License
 
 ## Next Steps
 
-1. Go to https://mc.manuscriptcentral.com/ra-l
-2. Login/Create account
+1. Go to **https://ras.papercept.net/journals/ral**
+2. Login with RAS PIN (or register new PIN)
 3. Start new submission
 4. Fill in all information above
 5. Upload paper.pdf
